@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:59:30.764Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="14.8.5" etag="OTATaTzwabqxMerlTcG6" type="github"><diagram id="dbvtk71Ss_PUmxHU-q1T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-13T07:22:43.865Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WX8aXAcMTdHQrsgWFo48" version="14.8.5" type="github">
+  <diagram id="dbvtk71Ss_PUmxHU-q1T" name="Page-1">
+    <mxGraphModel dx="935" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-1" target="WvLzBHF7IoXBWnDCPRMH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-1" value="User&amp;nbsp; rolls dice" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-2" target="WvLzBHF7IoXBWnDCPRMH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-2" value="User holds score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-3" target="WvLzBHF7IoXBWnDCPRMH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-3" value="User resets game" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-4" target="WvLzBHF7IoXBWnDCPRMH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-4" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-5" target="WvLzBHF7IoXBWnDCPRMH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-5" value="Display dice roll" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-8" target="WvLzBHF7IoXBWnDCPRMH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-8" target="WvLzBHF7IoXBWnDCPRMH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-8" value="Is it a 1?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-9" target="WvLzBHF7IoXBWnDCPRMH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-9" value="Add dice roll to current score" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-12" value="Display new score" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-14" target="WvLzBHF7IoXBWnDCPRMH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-14" value="Add current score to total score" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-17" target="WvLzBHF7IoXBWnDCPRMH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-17" target="WvLzBHF7IoXBWnDCPRMH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-17" value="Score &amp;gt;= 100?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-19" value="Switch player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-22" value="Current player wins!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;shadow=0;" edge="1" parent="1" source="WvLzBHF7IoXBWnDCPRMH-24" target="WvLzBHF7IoXBWnDCPRMH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-24" value="Set all scores to 0" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-25" value="Set player 1 as starting player" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-28" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-29" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-30" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-31" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-32" value="Display dice roll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-33" value="Add current score to total score" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-34" value="Set all scores to 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-35" value="Set player 1 as starting player" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-36" value="Generate random dice roll" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-37" value="Add current score to total score" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WvLzBHF7IoXBWnDCPRMH-38" value="User holds score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
